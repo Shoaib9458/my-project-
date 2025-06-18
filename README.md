@@ -1,4 +1,4 @@
 # my-project-
 coading
 <br>
-my name i shoaib qureshi 
+my name is shoaib qureshi 
